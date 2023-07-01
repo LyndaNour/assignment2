@@ -1,0 +1,8 @@
+﻿  main.cpp
+  nonprofessional.cpp
+C:\Users\nour\Desktop\DATA_STRUCTURE\assignment2_part2\assignment2_part2\nonprofessional.cpp(24,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nour\Desktop\DATA_STRUCTURE\assignment2_part2\assignment2_part2\nonprofessional.cpp(34,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  professional.cpp
+C:\Users\nour\Desktop\DATA_STRUCTURE\assignment2_part2\assignment2_part2\professional.cpp(36,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  assignment2_part2.vcxproj -> C:\Users\nour\Desktop\DATA_STRUCTURE\assignment2_part2\x64\Debug\assignment2_part2.exe
